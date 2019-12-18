@@ -2,3 +2,6 @@
 テスト
 
 追加します
+
+Git add
+Git commit
